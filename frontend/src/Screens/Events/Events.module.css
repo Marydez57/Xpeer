@@ -1,0 +1,17 @@
+.btn{
+    margin-left: 10px;
+    margin-bottom: 6px;
+}
+.card{
+    width: '16rem'
+}
+
+
+.span{
+    flex: 1;
+    text-decoration: none;
+    align-self: center;
+    cursor: pointer;
+    font-size: 18px;
+    color: black;
+}
